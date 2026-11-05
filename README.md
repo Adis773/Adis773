@@ -10,7 +10,7 @@
   <a href="https://novastep.tech"><img src="https://img.shields.io/badge/NeuroHub-live-000000?style=for-the-badge&logo=openai&logoColor=white" alt="NeuroHub"></a>
   <a href="https://x.com/qwer_GenZ"><img src="https://img.shields.io/badge/X-@qwer__GenZ-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:adisabenov2@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://adis-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://adisabenov.vercel.app"><img src="https://img.shields.io/badge/Portfolio-website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <h3 align="center">I build products end to end — architecture, backend, interface, inference, deploy</h3>
@@ -32,7 +32,7 @@ I'm a product engineer. I take an idea and carry it to "it works for real users"
 </div>
 
 <p align="center">
-  <a href="https://adis-portfolio.vercel.app"><b>→ Full portfolio site</b></a>
+  <a href="https://adisabenov.vercel.app"><b>→ Full portfolio site</b></a>
 </p>
 
 ---

@@ -10,7 +10,7 @@
   <a href="https://novastep.tech"><img src="https://img.shields.io/badge/NeuroHub-live-000000?style=for-the-badge&logo=openai&logoColor=white" alt="NeuroHub"></a>
   <a href="https://x.com/qwer_GenZ"><img src="https://img.shields.io/badge/X-@qwer__GenZ-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:adisabenov2@gmail.com"><img src="https://img.shields.io/badge/Email-написать-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://adis-portfolio.vercel.app"><img src="https://img.shields.io/badge/Портфолио-сайт-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Портфолио"></a>
+  <a href="https://adisabenov.vercel.app"><img src="https://img.shields.io/badge/Портфолио-сайт-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Портфолио"></a>
 </p>
 
 <h3 align="center">Строю продукты целиком: архитектура, бэкенд, интерфейс, инференс, деплой</h3>
@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <a href="https://adis-portfolio.vercel.app"><b>→ Сайт-портфолио</b></a>
+  <a href="https://adisabenov.vercel.app"><b>→ Сайт-портфолио</b></a>
 </p>
 
 ---
