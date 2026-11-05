@@ -1,150 +1,179 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Адис Абенов — Product Engineer: AI-инфраструктура, веб-платформы, 3D" width="100%" />
+  <img src="assets/banner.png" alt="Adis Abenov — product engineer: AI infrastructure, web platforms, 3D" width="100%" />
 </div>
 
-<br />
-
 <p align="center">
-  <sub><b>RU</b> · <a href="README.en.md">EN</a></sub>
+  <sub><b>EN</b> · <a href="README.ru.md">RU</a></sub>
 </p>
 
-
 <p align="center">
-  <a href="https://novastep.tech"><img src="https://img.shields.io/badge/NeuroHub-AI%20Infrastructure-000000?style=for-the-badge&logo=openai&logoColor=white" alt="NeuroHub"></a>
-  <a href="https://stratium-ai-landing.vercel.app"><img src="https://img.shields.io/badge/Stratium%20AI-Windows%20Agent-1A1A1A?style=for-the-badge&logo=windows&logoColor=white" alt="Stratium AI"></a>
-  <a href="mailto:adis040512@gmail.com"><img src="https://img.shields.io/badge/Email-Написать-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://novastep.tech"><img src="https://img.shields.io/badge/NeuroHub-live-000000?style=for-the-badge&logo=openai&logoColor=white" alt="NeuroHub"></a>
+  <a href="https://x.com/qwer_GenZ"><img src="https://img.shields.io/badge/X-@qwer__GenZ-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:adisabenov2@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://adis-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<h3 align="center">Строю продукты целиком: от архитектуры и бэкенда до интерфейса и деплоя</h3>
+<h3 align="center">I build products end to end — architecture, backend, interface, inference, deploy</h3>
+
+<p align="center"><em>AI infrastructure · web platforms · realtime &amp; 3D · 30+ launches</em></p>
+
+---
+
+## Hey, I'm Adis
+
+I'm a product engineer. I take an idea and carry it to "it works for real users": I design the architecture, write the backend and the frontend, wire up model inference, payments and monitoring, then keep it alive in production.
+
+**30+ shipped products in two years** — an AI model marketplace billed per token, an autonomous Windows agent, a 3D browser game, an AR building tool, a retail banking platform, client portals and brand sites. Some source code is closed by NDA or commercial confidentiality: there I show the product and explain the engineering decisions, not the code itself.
+
+> **Principle:** a working user journey first, beautiful architecture second. A product without users is just a folder of files.
 
 <p align="center">
-  <em>AI-инфраструктура · веб-платформы · realtime и 3D · 24 продукта в работе</em>
+  <a href="https://adis-portfolio.vercel.app"><b>→ Full portfolio site</b></a>
 </p>
 
 ---
 
-## Коротко о себе
+## Featured launches
 
-Меня зовут **Адис Абенов**, я product-инженер. Беру задачу на уровне идеи и довожу до состояния «работает у людей»: проектирую архитектуру, пишу бэкенд и фронтенд, настраиваю инференс моделей, платежи, деплой и мониторинг.
-
-За два года — **35 репозиториев с коммитами и 24 запущенных продукта**: от AI-маркетплейса с оплатой по токенам до 3D-игры в браузере и банковской платформы. Часть кода закрыта коммерческой тайной и NDA — в таких случаях я показываю продукт и описываю инженерные решения, но не исходники.
-
-> **Принцип:** сначала работающий сценарий для пользователя, потом красивая архитектура. Продукт без пользователя — это папка с файлами.
-
----
-
-## Избранные проекты
-
-### Stratium AI — автономный агент для Windows
+### NeuroHub — AI model infrastructure
 
 <div align="center">
-  <a href="https://stratium-ai-landing.vercel.app"><img src="assets/stratium.png" alt="Stratium AI — лендинг автономного ИИ-агента" width="100%" /></a>
+  <a href="https://novastep.tech"><img src="assets/neurohub.png" alt="NeuroHub — AI model catalog, chat and OpenAI-compatible API" width="100%" /></a>
 </div>
 
-Агент, который управляет компьютером: ставит задачи, работает с приложениями и файлами, держит контекст между сессиями и умеет жить автономно до 10 дней. Я сделал продукт целиком — позиционирование, лендинг, дизайн-систему, тексты, интерактив и сборку под Windows.
+A marketplace where authors upload model weights and inference runs on first-party GPUs: a catalog with per-million-token pricing, a web chat billed by actual usage, an OpenAI-compatible API and one invoice across every model. Billing, inference orchestration, response streaming, multi-tenancy — all built from scratch.
 
-**Стек:** TypeScript, React, Vite, собственные анимации на CSS/Canvas
-**Что было сложным:** объяснить «агента на компьютере» без магии — через демонстрацию сценариев, а не через список фич
+**Role:** architecture, backend, frontend, infrastructure
+**Status:** live, closed source — demo on request
 
 <p>
-  <a href="https://github.com/Adis773/stratium-ai-landing"><img src="https://img.shields.io/badge/Код-открыт-2EA043?style=flat-square&logo=github&logoColor=white" alt="Код открыт"></a>
-  <a href="https://stratium-ai-landing.vercel.app"><img src="https://img.shields.io/badge/Демо-live-0A66C2?style=flat-square" alt="Демо"></a>
-  <img src="https://img.shields.io/badge/Платформа-Windows%2010%20%2F%2011-555555?style=flat-square" alt="Windows 10 / 11">
+  <a href="https://novastep.tech"><img src="https://img.shields.io/badge/Open-live-2EA043?style=flat-square" alt="Live"></a>
+  <img src="https://img.shields.io/badge/Source-closed%20(NDA)-555555?style=flat-square&logo=lock&logoColor=white" alt="Source closed">
 </p>
 
-### Cyberpunk Megapolis — 3D-игра в браузере
+### Stratium AI — an autonomous agent for Windows
 
 <div align="center">
-  <a href="https://cyberpunk-megapolis.vercel.app"><img src="assets/cyberpunk.png" alt="Cyberpunk Megapolis — 3D-игра с полётом на паутине" width="100%" /></a>
+  <a href="https://stratium-ai-landing.vercel.app"><img src="assets/stratium.png" alt="Stratium AI landing page" width="100%" /></a>
 </div>
 
-Полёт на паутине между небоскрёбами: собственная физика тросов, процедурная застройка, динамическое освещение и потоковая подгрузка моделей и текстур. Отдельная гордость — пайплайн ассетов: персонаж с PBR-текстурами, нормалями и металличностью, который не убивает производительность.
+An agent that operates a computer: plans tasks, works with apps and files, keeps context between sessions and runs autonomously for up to 10 days. I built the whole product — positioning, landing page, design system, copy, interactive demo and the Windows build.
 
-**Стек:** JavaScript, Three.js/WebGL, GLSL-шейдеры, кастомный загрузчик ассетов
-**Что было сложным:** удержать 60 FPS на слабых ноутбуках — бюджет полигонов, батчинг, ленивая загрузка секторов города
+**Stack:** TypeScript, React, Vite, hand-written CSS/Canvas animation
+**Hard part:** explaining "an agent on your computer" without hand-waving — through scenarios, not feature lists
 
 <p>
-  <a href="https://github.com/Adis773/cyberpunk-megapolis"><img src="https://img.shields.io/badge/Код-открыт-2EA043?style=flat-square&logo=github&logoColor=white" alt="Код открыт"></a>
-  <a href="https://cyberpunk-megapolis.vercel.app"><img src="https://img.shields.io/badge/Играть-live-E4405F?style=flat-square" alt="Играть"></a>
+  <a href="https://stratium-ai-landing.vercel.app"><img src="https://img.shields.io/badge/Open-live-0A66C2?style=flat-square" alt="Live"></a>
+  <a href="https://github.com/Adis773/stratium-ai-landing"><img src="https://img.shields.io/badge/Source-open-2EA043?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-555555?style=flat-square" alt="Windows">
+</p>
+
+### Cyberpunk Megapolis — a 3D game in the browser
+
+<div align="center">
+  <a href="https://cyberpunk-megapolis.vercel.app"><img src="assets/cyberpunk.png" alt="Cyberpunk Megapolis — 3D web-swing game" width="100%" /></a>
+</div>
+
+Web-swinging between skyscrapers: custom rope physics, a procedural city, dynamic lighting and streaming of models and textures. The asset pipeline is a point of pride too — a PBR character with normals and metalness that doesn't wreck performance.
+
+**Stack:** JavaScript, Three.js/WebGL, GLSL shaders, custom asset loader
+**Hard part:** holding 60 FPS on weak laptops — polygon budget, batching, lazy sector loading
+
+<p>
+  <a href="https://cyberpunk-megapolis.vercel.app"><img src="https://img.shields.io/badge/Play-live-E4405F?style=flat-square" alt="Play"></a>
+  <a href="https://github.com/Adis773/cyberpunk-megapolis"><img src="https://img.shields.io/badge/Source-open-2EA043?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
   <img src="https://img.shields.io/badge/3D-WebGL-9900EF?style=flat-square" alt="WebGL">
 </p>
 
-### AlphaBot Quantum — панель автономного трейдинг-агента
+---
 
-<div align="center">
-  <a href="https://tradinbot.vercel.app"><img src="assets/alphabot.png" alt="AlphaBot Quantum — панель управления торговым агентом" width="100%" /></a>
-</div>
+## More launches
 
-Интерфейс управления торговым агентом: стартовый капитал, запуск цикла анализа, живой поток событий, экспорт логов. Задача была не «нарисовать дашборд», а сделать прозрачным то, что обычно скрыто: видно каждый шаг решения и каждую сделку.
-
-**Стек:** TypeScript, React, realtime-стрим событий, Firebase
-**Что было сложным:** визуализировать работу агента так, чтобы трейдер доверял, а не гадал
-
-<p>
-  <a href="https://github.com/Adis773/Tradinbot"><img src="https://img.shields.io/badge/Код-открыт-2EA043?style=flat-square&logo=github&logoColor=white" alt="Код открыт"></a>
-  <a href="https://tradinbot.vercel.app"><img src="https://img.shields.io/badge/Демо-live-0A66C2?style=flat-square" alt="Демо"></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://tradinbot.vercel.app"><img src="assets/alphabot.png" alt="AlphaBot Quantum dashboard" width="100%" /></a>
+  <b>AlphaBot Quantum</b> — control room for a trading agent: capital, analysis cycles, live event stream, log export.<br />
+  <sub>React · TypeScript · Firebase</sub><br />
+  <a href="https://tradinbot.vercel.app"><b>Live</b></a> · <a href="https://github.com/Adis773/Tradinbot">Code</a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://vilis.vercel.app"><img src="assets/vilis.png" alt="VILIS premium AI glasses" width="100%" /></a>
+  <b>VILIS</b> — launch site for premium AI glasses: 1080p capture, 8 hours of battery, built-in assistant.<br />
+  <sub>Brand site · conversion · motion</sub><br />
+  <a href="https://vilis.vercel.app"><b>Live</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://fg-self.vercel.app"><img src="assets/ar3d.png" alt="AR 3D Builder" width="100%" /></a>
+  <b>AR 3D Builder</b> — hand-tracked AR editor: pinch to place blocks, gesture to delete, scene export to JSON.<br />
+  <sub>WebXR · MediaPipe · Three.js</sub><br />
+  <a href="https://fg-self.vercel.app"><b>Live</b></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://abebabank.vercel.app"><img src="assets/abeba.png" alt="ABEBA Bank" width="100%" /></a>
+  <b>ABEBA Bank</b> — zero-fee meme bank: a product experiment in brand voice, virality and conversion.<br />
+  <sub>React · landing · Web3</sub><br />
+  <a href="https://abebabank.vercel.app"><b>Live</b></a> · <a href="https://github.com/Adis773/Abeba-bank-">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://v0-easgikcabinet-l5.vercel.app"><img src="assets/easgik.png" alt="Easgik customer portal" width="100%" /></a>
+  <b>Easgik</b> — customer portal for a land-survey and cadastre service: requests, documents, account area.<br />
+  <sub>Commercial client · Next.js · Postgres</sub><br />
+  <a href="https://v0-easgikcabinet-l5.vercel.app"><b>Live</b></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://barber2-eight.vercel.app"><img src="assets/barber.png" alt="Barber Boss barbershop site" width="100%" /></a>
+  <b>Barber Boss</b> — premium barbershop in Astana: services, interior, booking flow, Telegram notifications.<br />
+  <sub>Client site · booking · brand</sub><br />
+  <a href="https://barber2-eight.vercel.app"><b>Live</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Adis773/GameViki"><img src="assets/gameviki.png" alt="GameViki encyclopedia" width="100%" /></a>
+  <b>GameViki</b> — video game encyclopedia: catalog, reviews, ratings, collections, editorial admin.<br />
+  <sub>React · Node · Postgres · Redis</sub><br />
+  <sub>Closed source · private beta</sub>
+</td>
+<td width="50%" valign="top">
+  <img src="assets/bankflow.png" alt="BankFlow banking platform" width="100%" />
+  <b>BankFlow</b> — retail digital banking: accounts, payments, cards, lending, investments, analytics.<br />
+  <sub>FastAPI · Next.js · Kubernetes</sub><br />
+  <sub>Closed source · commercial</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## Закрытые продукты
+## Also shipped
 
-> Здесь исходный код закрыт: NDA, коммерческая разработка или подготовка к релизу. Могу показать продукт и разобрать архитектуру на созвоне — код по договорённости.
-
-### NeuroHub — инфраструктура AI-моделей
-
-<div align="center">
-  <img src="assets/neurohub.png" alt="NeuroHub — каталог AI-моделей, чат и OpenAI-совместимый API" width="100%" />
-</div>
-
-Платформа, где авторы загружают веса моделей, а инференс идёт на собственных GPU: каталог с ценами за миллион токенов, веб-чат с оплатой по факту, OpenAI-совместимый API и единый счёт на все модели. Флагманский проект: биллинг, оркестрация инференса, стриминг ответов, мультиарендность.
-
-**Роль:** архитектура, бэкенд, фронтенд, инфраструктура
-**Статус:** закрытая разработка, демо по запросу
-
-<p>
-  <img src="https://img.shields.io/badge/NeuroHub-live-000000?style=flat-square" alt="NeuroHub live">
-  <img src="https://img.shields.io/badge/Код-закрыт%20(NDA)-555555?style=flat-square&logo=lock&logoColor=white" alt="Код закрыт">
-</p>
-
-### BankFlow — розничная банковская платформа
-
-<div align="center">
-  <img src="assets/bankflow.png" alt="BankFlow — банковская платформа: счета, платежи, карты, инвестиции" width="100%" />
-</div>
-
-Модульный монолит на FastAPI плюс Next.js-кабинет: счета, переводы, карты, кредиты, бюджеты и цели, инвестиции, аналитика. Отдельно — выделение нагруженных доменов в сервисы за API-шлюзом и Kubernetes-манифесты.
-
-**Стек:** Python/FastAPI, Next.js, PostgreSQL, Kubernetes
-**Статус:** коммерческая разработка, код закрыт
-
-### GameViki — энциклопедия видеоигр
-
-<div align="center">
-  <img src="assets/gameviki.png" alt="GameViki — каталог игр, рецензии, оценки, подборки" width="100%" />
-</div>
-
-Каталог игр с рецензиями, оценками и подборками: админка для редакции, полнотекстовый поиск, медиа-пайплайн и модерация пользовательского контента. Продукт про контент, а не про «ещё один сайт с карточками».
-
-**Стек:** React, Node.js, PostgreSQL, Redis
-**Статус:** закрытая разработка
-
----
-
-## Ещё в работе
-
-| Проект | Что это | Статус |
+| Product | What it is | Link |
 | :-- | :-- | :-- |
-| **Easgik** | Кабинет единой службы геодезии и кадастра: заявки, документы, личный кабинет | Коммерческий клиент, [демо](https://v0-easgikcabinet-l5.vercel.app) |
-| **SmartLearnix** | AI-платформа обучения с персональной программой, геймификацией и аналитикой | [Открытый код](https://github.com/Adis773/SmartLearnix) |
-| **ABEBA Bank** | Мемный банк с нулевыми комиссиями — продуктовый эксперимент про бренд и виральность | [Открытый код](https://github.com/Adis773/Abeba-bank-) |
-| **TgClone** | Клиент мессенджера на React: чаты, медиа, realtime-обновления | [Открытый код](https://github.com/Adis773/Tgclone) |
-| **freeGPT** | Интерфейс доступа к моделям без ключей и настройки | [Открытый код](https://github.com/Adis773/freeGPT) |
-| **AirOS** | Веб-«операционная система» в браузере: окна, файлы, приложения | [Открытый код](https://github.com/Adis773/AirOs) |
+| **AInvest Terminal** | Investment terminal: portfolio, daily yield, auto-invest 10% into stocks, insights feed | [Live](https://assistent-nine.vercel.app) |
+| **SmartLearnix** | AI learning platform: personal tracks, gamification, analytics | [Code](https://github.com/Adis773/SmartLearnix) |
+| **TgClone** | Messenger client on React: chats, media, realtime updates | [Code](https://github.com/Adis773/Tgclone) |
+| **freeGPT** | Zero-setup interface to language models | [Code](https://github.com/Adis773/freeGPT) |
+| **AirOS** | Browser "operating system": windows, files, apps in a tab | [Code](https://github.com/Adis773/AirOs) |
+| **CryptoMain** | Crypto portfolio tracker with auth and live rates | [Live](https://cryptomain.vercel.app) |
+| **Stranger Things Shop** | Fandom merch store: catalog, cart, checkout | [Live](https://strangerthings-shop.vercel.app) |
+| **Alpha Barbershop** | Second barbershop brand site with online booking | [Live](https://barber-delta-five.vercel.app) |
 
 ---
 
-## Стек
+## About closed source
+
+Six products run with private repositories — **NeuroHub**, **BankFlow**, **GameViki**, **AInvest**, plus two client systems under NDA. That's a normal part of commercial work: the product is public, the code is the client's asset.
+
+If you need to see engineering depth rather than a landing page, I'm happy to walk through architecture, data models and trade-offs on a call — or show the open-source ones above, which are real and complete.
+
+---
+
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -156,43 +185,35 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-Умею и то, что вокруг кода: продуктовые решения, дизайн интерфейсов, тексты, аналитика, деплой и поддержка в проде.
+I also handle everything around the code: product decisions, interface design, copy, analytics, deployment and production support.
 
 ---
 
-## GitHub в цифрах
+## How I work
 
-<div align="center">
-  <img src="assets/stats.png" alt="24 продукта, 413+ коммитов за год, 35 проектов с кодом, 6 закрытых продуктов" width="100%" />
-</div>
-
-Цифры честные: считаю только то, что действительно доведено до работающего состояния. Репозиториев в аккаунте больше — часть это эксперименты, черновики и учебные проекты, они специально убраны из публичного доступа.
-
----
-
-## Как я работаю
-
-| Шаг | Что происходит |
+| Step | What happens |
 | :--: | :-- |
-| **01** | Разбираю задачу до пользовательского сценария: кто, зачем, что должно получиться на выходе |
-| **02** | Собираю каркас: схема данных, API, ключевые экраны. Проверяю на реальных данных, а не на мокапах |
-| **03** | Довожу до продакшена: тесты на критичные пути, логи, метрики, обработка ошибок, деплой |
-| **04** | Остаюсь на связи после релиза: правки, развитие, передача кода и документации |
+| **01** | I turn the task into a user journey: who, why, what the outcome must be |
+| **02** | I build the skeleton: data model, API, key screens — validated on real data, not mockups |
+| **03** | I ship it: tests on critical paths, logs, metrics, error handling, deploy |
+| **04** | I stay after release: iterations, handover of code and documentation |
 
 ---
 
 <div align="center">
 
-### Есть задача, которую нужно довести до работающего продукта?
+### Have something that should become a working product?
 
-Пишите — отвечу и предложу решение, а не прайс на человеко-часы.
+Write to me — you'll get a solution, not an hourly-rate quote.
 
-<a href="mailto:adis040512@gmail.com"><img src="https://img.shields.io/badge/adis040512@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/Adis773"><img src="https://img.shields.io/badge/github.com/Adis773-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:adisabenov2@gmail.com"><img src="https://img.shields.io/badge/adisabenov2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://x.com/qwer_GenZ"><img src="https://img.shields.io/badge/@qwer__GenZ-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://github.com/Adis773"><img src="https://img.shields.io/badge/Adis773-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<sub>Открыт к интересным проектам · 2026</sub>
+<sub>Open to ambitious projects · 2026</sub>
 
 </div>
