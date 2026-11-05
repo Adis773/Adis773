@@ -165,10 +165,11 @@
 
 ## GitHub в цифрах
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adis773&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Статистика GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adis773&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Основные языки" />
-</p>
+<div align="center">
+  <img src="assets/stats.png" alt="24 продукта, 413+ коммитов за год, 35 проектов с кодом, 6 закрытых продуктов" width="100%" />
+</div>
+
+Цифры честные: считаю только то, что действительно доведено до работающего состояния. Репозиториев в аккаунте больше — часть это эксперименты, черновики и учебные проекты, они специально убраны из публичного доступа.
 
 ---
 

@@ -5,6 +5,11 @@
 <br />
 
 <p align="center">
+  <sub><a href="README.md">RU</a> · <b>EN</b></sub>
+</p>
+
+
+<p align="center">
   <a href="https://novastep.tech"><img src="https://img.shields.io/badge/NeuroHub-AI%20Infrastructure-000000?style=for-the-badge&logo=openai&logoColor=white" alt="NeuroHub"></a>
   <a href="https://stratium-ai-landing.vercel.app"><img src="https://img.shields.io/badge/Stratium%20AI-Windows%20Agent-1A1A1A?style=for-the-badge&logo=windows&logoColor=white" alt="Stratium AI"></a>
   <a href="mailto:adis040512@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -160,10 +165,11 @@ I also handle everything around the code: product decisions, interface design, c
 
 ## GitHub in numbers
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adis773&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adis773&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+<div align="center">
+  <img src="assets/stats.png" alt="24 products, 413+ commits this year, 35 projects with code, 6 closed products" width="100%" />
+</div>
+
+These numbers are honest: only work that actually ships is counted. There are more repositories on the account — experiments and drafts, deliberately kept out of public view.
 
 ---
 
