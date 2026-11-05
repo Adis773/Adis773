@@ -27,6 +27,10 @@ I'm a product engineer. I take an idea and carry it to "it works for real users"
 
 > **Principle:** a working user journey first, beautiful architecture second. A product without users is just a folder of files.
 
+<div align="center">
+  <img src="assets/stats.png" alt="30+ products, 890+ commits this year, 35 projects with code, 6 closed products" width="100%" />
+</div>
+
 <p align="center">
   <a href="https://adis-portfolio.vercel.app"><b>→ Full portfolio site</b></a>
 </p>
